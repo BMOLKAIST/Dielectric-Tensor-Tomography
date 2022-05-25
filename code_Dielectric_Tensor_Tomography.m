@@ -1,6 +1,6 @@
 % code by Seungwoo Shin
 % from the paper : 'Tomographic measurement of dielectric tensors at
-% optical frequency', Nature Materials, in press (2021)
+% optical frequency', Nature Materials, 21, 317–324 (2022)
 % The test data corresponding to the Fig.3c can be downloaded here: 
 % https://drive.google.com/file/d/1eg7sAlkmvuZJTf39--So8aLkd4la9b5Q/view?usp=sharing
 clear; clc; close all
